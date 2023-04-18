@@ -10,5 +10,8 @@
         <module name="ws0418_XML" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ws0418_AOP" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
